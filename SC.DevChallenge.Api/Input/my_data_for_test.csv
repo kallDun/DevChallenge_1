@@ -1,0 +1,597 @@
+Portfolio,Owner,Instrument,Date,Price
+Fannie Mae,SimCorp,Equity,21/04/2018 12:11:45,150.99
+Bank of America,Microsoft,Futures,15/04/2018 01:49:35,77.65
+BNP Paribas,Toyota,Deposit,02/07/2018 17:09:54,93.80
+Fannie Mae,Apple,Loan,23/07/2018 01:32:48,390.62
+Fannie Mae,Walmart,Bond,13/12/2018 19:18:40,549.70
+BNP Paribas,Ford,Swap,10/06/2018 14:35:03,178.22
+Deutsche Bank,Toyota,Equity,05/11/2018 20:53:43,656.30
+Bank of America,Samsung,CDS,19/04/2018 12:40:58,202.97
+Fannie Mae,Google,CDS,18/01/2018 10:27:14,638.67
+State Bank of India,Google,Deposit,28/02/2018 09:27:08,765.85
+State Bank of India,Walmart,Loan,17/04/2018 07:20:38,547.23
+State Bank of India,Walmart,Bond,13/05/2018 12:08:12,693.56
+Barclays,Toyota,Swap,17/06/2018 08:58:31,194.54
+BNP Paribas,SimCorp,Equity,19/05/2018 15:53:19,111.17
+BNP Paribas,Samsung,Futures,01/12/2018 07:08:28,170.89
+Finanz Informatik,Microsoft,Deposit,08/02/2018 07:40:51,344.82
+Finanz Informatik,Samsung,Loan,22/07/2018 09:28:41,235.36
+Deutsche Bank,Samsung,Deposit,19/11/2018 13:15:54,563.59
+Fannie Mae,SimCorp,Deposit,02/11/2018 19:40:03,159.92
+State Bank of India,Apple,Options,02/02/2018 07:30:53,51.26
+UOB,Amazon,Deposit,24/11/2018 11:28:57,141.21
+BNP Paribas,Toyota,Futures,02/06/2018 19:58:29,326.05
+Deutsche Bank,Amazon,Options,25/04/2018 14:13:37,462.55
+BNP Paribas,Amazon,CDS,13/10/2018 18:42:59,384.75
+Finanz Informatik,Toyota,Options,12/05/2018 05:36:11,11.34
+Finanz Informatik,Apple,Futures,26/04/2018 10:51:33,37.61
+Fannie Mae,Samsung,Bond,18/01/2018 15:04:36,299.64
+BNP Paribas,Ford,Futures,18/11/2018 01:49:11,319.43
+BNP Paribas,Apple,Options,03/08/2018 02:56:27,580.29
+State Bank of India,Google,Bond,10/10/2018 12:37:32,121.36
+Fannie Mae,Ford,Equity,04/11/2018 08:33:31,595.39
+Bank of America,Toyota,CDS,07/05/2018 05:21:28,573.58
+Deutsche Bank,Walmart,CDS,10/12/2018 22:58:40,626.73
+Barclays,Microsoft,Futures,14/02/2018 01:48:38,118.18
+Barclays,Amazon,Deposit,13/01/2018 06:28:39,387.34
+Fannie Mae,Google,Options,02/03/2018 13:18:18,120.78
+Finanz Informatik,Samsung,Swap,15/07/2018 08:16:35,146.17
+Barclays,Toyota,Swap,03/03/2018 07:48:40,248.98
+Barclays,Microsoft,Bond,28/06/2018 06:43:15,83.28
+Deutsche Bank,SimCorp,Bond,12/04/2018 15:27:19,55.23
+State Bank of India,Samsung,Deposit,21/05/2018 10:12:20,98.35
+Deutsche Bank,Walmart,Deposit,21/06/2018 02:47:33,50.04
+Bank of America,Apple,Options,15/11/2018 21:36:39,175.29
+UOB,SimCorp,Equity,03/05/2018 14:30:44,447.87
+BNP Paribas,Amazon,Equity,06/04/2018 02:43:39,423.35
+UOB,Ford,Deposit,14/04/2018 23:21:53,238.23
+UOB,SimCorp,Futures,26/07/2018 06:28:25,719.59
+Bank of America,Apple,Deposit,07/12/2018 05:51:14,79.41
+Fannie Mae,Ford,Bond,19/06/2018 22:42:54,344.95
+Fannie Mae,Walmart,Swap,21/11/2018 12:53:36,190.25
+Bank of America,Microsoft,Loan,23/06/2018 19:05:48,396.90
+BNP Paribas,Google,Equity,19/06/2018 21:27:02,11.88
+Bank of America,Walmart,Options,25/03/2018 22:10:56,872.00
+Finanz Informatik,Microsoft,Deposit,23/10/2018 20:40:38,185.26
+State Bank of India,Ford,Swap,01/08/2018 03:26:28,599.45
+BNP Paribas,Samsung,CDS,12/06/2018 02:47:03,196.87
+Bank of America,Google,Options,27/04/2018 20:19:25,501.49
+Fannie Mae,Samsung,Loan,02/01/2018 15:41:53,488.81
+Barclays,Toyota,CDS,18/05/2018 11:34:20,180.90
+BNP Paribas,Walmart,Bond,07/10/2018 18:20:33,277.35
+UOB,Apple,Deposit,18/06/2018 06:32:38,151.85
+Finanz Informatik,Ford,Deposit,11/10/2018 22:24:09,315.62
+Finanz Informatik,Ford,Bond,21/11/2018 14:44:33,381.03
+Finanz Informatik,Google,Equity,27/02/2018 12:50:17,301.10
+State Bank of India,Ford,Swap,12/08/2018 04:48:16,357.18
+Finanz Informatik,Google,Deposit,24/03/2018 19:56:02,162.46
+Bank of America,Ford,Deposit,13/02/2018 06:41:43,84.71
+BNP Paribas,Google,Loan,17/04/2018 09:03:29,769.77
+UOB,SimCorp,Equity,27/06/2018 03:17:04,265.60
+Bank of America,Samsung,Options,25/10/2018 22:04:50,55.97
+Barclays,Apple,Futures,07/07/2018 06:50:33,32.09
+UOB,SimCorp,Options,07/03/2018 01:51:23,291.41
+State Bank of India,Walmart,Futures,10/09/2018 07:35:34,52.06
+Finanz Informatik,Google,Loan,02/04/2018 17:04:36,293.82
+Finanz Informatik,Toyota,Futures,11/10/2018 03:15:23,176.26
+BNP Paribas,Toyota,CDS,06/10/2018 20:36:42,476.19
+Deutsche Bank,Microsoft,Bond,04/12/2018 14:07:18,159.80
+State Bank of India,Microsoft,Equity,02/05/2018 05:10:39,55.87
+BNP Paribas,Google,Bond,17/08/2018 15:29:34,121.14
+BNP Paribas,Amazon,Futures,04/04/2018 01:37:33,20.68
+State Bank of India,Ford,Loan,24/01/2018 19:32:20,553.93
+Deutsche Bank,Ford,Loan,27/11/2018 10:15:32,72.11
+BNP Paribas,SimCorp,Equity,11/11/2018 15:48:54,177.76
+Bank of America,Walmart,Swap,09/07/2018 02:55:57,43.91
+BNP Paribas,Google,Deposit,15/01/2018 04:59:33,585.05
+Deutsche Bank,Apple,Equity,20/03/2018 10:44:23,205.63
+BNP Paribas,Walmart,Bond,12/08/2018 03:58:46,198.85
+Bank of America,Microsoft,Deposit,11/07/2018 22:42:09,558.39
+Deutsche Bank,Microsoft,Options,09/08/2018 13:24:46,110.28
+Finanz Informatik,SimCorp,Loan,22/07/2018 11:06:11,759.67
+Fannie Mae,Google,Swap,05/05/2018 11:16:40,319.90
+Deutsche Bank,Walmart,Bond,17/06/2018 18:02:28,638.79
+Deutsche Bank,Google,Swap,17/10/2018 23:01:18,297.23
+UOB,SimCorp,Futures,01/12/2018 10:19:14,702.65
+Finanz Informatik,Toyota,Swap,04/02/2018 17:32:49,367.42
+Barclays,Walmart,Deposit,21/10/2018 23:19:11,119.08
+Barclays,Ford,Swap,26/11/2018 05:07:03,228.66
+Barclays,Samsung,Bond,17/06/2018 23:15:47,100.96
+Barclays,Google,Loan,13/09/2018 06:40:40,553.35
+BNP Paribas,Google,Futures,12/03/2018 08:49:03,30.38
+Bank of America,SimCorp,Futures,17/10/2018 16:35:22,199.76
+Deutsche Bank,SimCorp,Options,22/12/2018 07:35:10,159.91
+Bank of America,Amazon,Deposit,01/05/2018 07:21:50,331.10
+Fannie Mae,Google,Options,08/09/2018 22:47:34,24.15
+Deutsche Bank,Microsoft,Futures,09/07/2018 14:34:31,112.92
+Deutsche Bank,Walmart,Options,11/07/2018 04:40:58,96.10
+Finanz Informatik,Toyota,Loan,17/12/2018 13:57:51,278.47
+Barclays,Apple,Bond,02/09/2018 06:58:18,559.58
+Deutsche Bank,Samsung,Futures,16/12/2018 12:38:03,62.65
+Finanz Informatik,Samsung,Deposit,14/11/2018 21:01:32,57.61
+Bank of America,Toyota,Deposit,19/08/2018 17:38:53,723.96
+Fannie Mae,Amazon,Deposit,16/04/2018 11:21:22,120.84
+State Bank of India,Ford,Options,16/07/2018 16:13:11,70.67
+Fannie Mae,SimCorp,Futures,24/05/2018 01:59:47,49.02
+UOB,Toyota,Options,26/02/2018 22:58:29,228.52
+Bank of America,Walmart,Equity,25/11/2018 16:12:16,281.72
+Bank of America,SimCorp,CDS,27/05/2018 17:59:29,7.47
+Barclays,Walmart,Bond,07/07/2018 04:23:23,297.69
+Deutsche Bank,Toyota,Swap,18/03/2018 14:20:33,442.84
+UOB,Toyota,CDS,09/04/2018 10:04:13,109.98
+State Bank of India,SimCorp,Swap,15/09/2018 23:33:33,54.27
+Finanz Informatik,Samsung,Options,10/06/2018 19:34:29,464.65
+Barclays,Amazon,Bond,22/05/2018 18:50:49,301.26
+BNP Paribas,Google,Equity,20/06/2018 05:43:11,232.25
+BNP Paribas,Toyota,Swap,24/09/2018 23:08:17,461.99
+UOB,Walmart,Futures,22/11/2018 12:29:39,521.94
+Fannie Mae,Toyota,Loan,19/10/2018 03:39:07,754.77
+BNP Paribas,Amazon,Deposit,09/01/2018 15:30:16,167.46
+Deutsche Bank,Walmart,Swap,28/10/2018 12:41:19,403.38
+Deutsche Bank,Apple,Equity,15/12/2018 08:30:10,212.46
+Finanz Informatik,Apple,Options,13/10/2018 11:46:25,65.45
+State Bank of India,Microsoft,Equity,04/03/2018 14:50:30,118.45
+Barclays,Amazon,Futures,13/07/2018 01:11:52,186.07
+Fannie Mae,Amazon,Equity,13/10/2018 15:03:05,569.76
+Deutsche Bank,Microsoft,Deposit,07/08/2018 11:55:02,198.42
+Barclays,Ford,Loan,08/12/2018 23:37:59,750.73
+Finanz Informatik,Ford,Deposit,28/07/2018 15:05:21,171.75
+Bank of America,Toyota,Equity,12/04/2018 04:34:47,409.74
+BNP Paribas,Google,Bond,14/08/2018 04:58:14,296.51
+BNP Paribas,Apple,CDS,08/12/2018 20:26:13,255.85
+Barclays,Walmart,Loan,12/04/2018 18:49:07,374.27
+Barclays,Samsung,CDS,10/05/2018 04:49:12,102.57
+Deutsche Bank,Samsung,Deposit,14/04/2018 12:02:15,53.18
+Deutsche Bank,Amazon,Equity,17/09/2018 12:51:47,627.71
+Finanz Informatik,Samsung,CDS,01/05/2018 05:21:21,173.86
+BNP Paribas,Microsoft,Equity,26/10/2018 13:44:58,118.63
+Deutsche Bank,Walmart,Bond,11/12/2018 02:38:58,754.96
+Finanz Informatik,Apple,Swap,15/04/2018 19:08:26,674.97
+Fannie Mae,Toyota,CDS,17/11/2018 12:13:26,112.37
+UOB,Samsung,Swap,01/04/2018 18:46:46,106.84
+Bank of America,Amazon,Options,24/09/2018 23:17:50,24.18
+Barclays,Microsoft,CDS,23/06/2018 02:54:14,47.39
+UOB,Google,Equity,03/10/2018 10:04:40,323.79
+BNP Paribas,Amazon,Futures,22/05/2018 18:07:56,233.89
+Fannie Mae,Amazon,Equity,18/09/2018 11:12:29,30.25
+UOB,SimCorp,Futures,03/02/2018 08:12:48,495.68
+State Bank of India,Walmart,Options,03/06/2018 02:54:20,322.02
+State Bank of India,Ford,Equity,20/10/2018 12:59:30,77.30
+Fannie Mae,Walmart,Equity,27/04/2018 12:56:17,89.33
+Bank of America,Microsoft,Loan,20/08/2018 15:49:46,125.63
+Bank of America,Samsung,Deposit,01/06/2018 20:22:40,351.52
+Finanz Informatik,Toyota,CDS,07/01/2018 08:26:14,281.17
+BNP Paribas,Walmart,Bond,12/04/2018 15:41:34,316.40
+Deutsche Bank,Google,Swap,03/07/2018 08:49:40,10.01
+BNP Paribas,Microsoft,Deposit,03/08/2018 21:38:16,53.16
+Fannie Mae,Walmart,Loan,13/12/2018 21:47:29,159.63
+Fannie Mae,Samsung,Options,27/05/2018 04:47:06,36.35
+Bank of America,Toyota,Swap,15/05/2018 20:48:26,848.12
+BNP Paribas,Amazon,Equity,26/09/2018 02:55:56,112.43
+Bank of America,Microsoft,Options,27/11/2018 08:40:29,38.25
+BNP Paribas,SimCorp,Loan,24/06/2018 10:39:54,670.21
+BNP Paribas,Amazon,Loan,11/07/2018 17:37:54,296.73
+Fannie Mae,Samsung,Swap,11/09/2018 05:11:04,409.55
+Fannie Mae,Microsoft,CDS,12/04/2018 11:07:43,123.59
+Barclays,Apple,Futures,03/07/2018 05:03:02,453.97
+Deutsche Bank,Toyota,Bond,20/11/2018 07:34:36,140.70
+Fannie Mae,Walmart,Futures,12/04/2018 18:38:02,66.00
+Bank of America,Samsung,Bond,13/12/2018 05:22:25,132.59
+Fannie Mae,Google,Options,14/04/2018 10:19:52,167.55
+State Bank of India,SimCorp,CDS,07/03/2018 19:34:12,124.23
+Bank of America,Apple,Swap,17/08/2018 19:42:03,46.33
+State Bank of India,Google,Swap,14/11/2018 02:03:12,211.25
+Barclays,Toyota,Futures,28/01/2018 03:15:52,84.38
+Deutsche Bank,Google,Loan,19/04/2018 04:16:58,488.50
+Deutsche Bank,Microsoft,Futures,07/01/2018 18:31:43,478.13
+UOB,Amazon,Futures,24/02/2018 18:32:53,170.37
+Bank of America,Samsung,Loan,25/10/2018 17:50:40,295.39
+UOB,Apple,Options,09/02/2018 05:17:25,108.46
+Bank of America,SimCorp,Equity,24/07/2018 06:45:12,239.03
+Bank of America,Amazon,Futures,04/03/2018 21:58:44,416.56
+State Bank of India,Samsung,Futures,10/05/2018 17:52:18,108.98
+Barclays,Google,Bond,24/05/2018 01:39:44,552.36
+State Bank of India,Walmart,Equity,21/05/2018 11:41:17,575.76
+Fannie Mae,SimCorp,Equity,09/04/2018 18:05:50,0.48
+Barclays,SimCorp,Loan,11/10/2018 12:16:02,53.82
+Fannie Mae,Microsoft,Deposit,15/08/2018 07:39:05,69.83
+BNP Paribas,Walmart,Loan,12/05/2018 22:53:49,555.47
+State Bank of India,Samsung,Options,07/09/2018 12:18:22,6.51
+Fannie Mae,Walmart,Swap,05/11/2018 01:42:37,2.02
+Fannie Mae,Apple,Equity,04/05/2018 19:11:57,110.31
+Bank of America,Amazon,Swap,04/05/2018 10:43:06,207.46
+State Bank of India,Microsoft,Bond,20/05/2018 08:42:23,38.09
+Fannie Mae,Microsoft,Bond,27/12/2018 22:36:11,106.11
+Finanz Informatik,Microsoft,Swap,18/07/2018 17:41:33,294.26
+Finanz Informatik,Walmart,Equity,03/10/2018 20:56:49,619.98
+BNP Paribas,Samsung,CDS,06/01/2018 08:23:59,511.15
+UOB,SimCorp,Futures,19/12/2018 15:20:29,103.55
+Deutsche Bank,Google,Options,03/06/2018 15:03:18,770.17
+BNP Paribas,Samsung,Options,10/10/2018 13:36:55,160.76
+Finanz Informatik,Toyota,Equity,27/08/2018 18:08:18,136.68
+Bank of America,SimCorp,Bond,04/08/2018 22:13:16,50.56
+Finanz Informatik,Apple,Bond,05/04/2018 01:01:40,551.57
+BNP Paribas,Amazon,Bond,18/07/2018 23:01:58,124.97
+Bank of America,Toyota,Equity,16/06/2018 13:46:53,214.86
+Finanz Informatik,Amazon,Swap,28/11/2018 07:37:50,319.78
+Deutsche Bank,SimCorp,CDS,11/12/2018 03:21:31,425.54
+State Bank of India,Microsoft,Deposit,02/07/2018 13:53:35,9.31
+Fannie Mae,Google,Swap,22/03/2018 17:25:16,479.10
+Finanz Informatik,Google,Options,18/07/2018 02:05:13,212.19
+Fannie Mae,Microsoft,Deposit,14/07/2018 03:35:26,54.29
+Barclays,Apple,Bond,20/11/2018 15:29:28,397.49
+Deutsche Bank,Apple,Swap,22/09/2018 18:41:12,151.28
+Barclays,Toyota,Futures,11/04/2018 23:17:25,943.26
+BNP Paribas,Ford,Futures,27/01/2018 08:05:41,518.56
+Bank of America,Walmart,Swap,22/06/2018 03:16:09,88.34
+Barclays,Amazon,Futures,28/10/2018 17:33:47,564.58
+Finanz Informatik,Apple,CDS,16/07/2018 16:37:55,341.14
+Deutsche Bank,Apple,Loan,13/12/2018 20:41:04,371.13
+Deutsche Bank,Google,CDS,07/01/2018 17:31:40,173.14
+UOB,Microsoft,Equity,19/03/2018 12:53:27,33.01
+Bank of America,Amazon,Futures,01/04/2018 10:05:32,144.92
+BNP Paribas,SimCorp,Loan,27/03/2018 05:25:40,69.04
+Fannie Mae,Ford,Deposit,19/06/2018 09:48:10,268.15
+State Bank of India,Microsoft,Equity,21/06/2018 10:44:19,260.62
+Deutsche Bank,Ford,Loan,07/12/2018 07:03:59,24.50
+BNP Paribas,Google,Equity,26/01/2018 14:31:54,109.85
+Bank of America,Ford,Loan,04/05/2018 18:19:48,443.37
+Barclays,Apple,CDS,07/06/2018 05:37:49,279.81
+Finanz Informatik,Samsung,Swap,25/10/2018 18:07:12,108.27
+State Bank of India,Samsung,CDS,07/05/2018 17:42:54,143.40
+State Bank of India,Microsoft,Options,01/08/2018 23:33:39,476.46
+State Bank of India,Toyota,CDS,08/04/2018 19:58:28,559.50
+Deutsche Bank,Google,Loan,19/04/2018 15:27:15,214.29
+Bank of America,Toyota,Swap,12/09/2018 03:16:18,139.26
+Fannie Mae,SimCorp,Futures,07/11/2018 05:10:23,729.67
+Deutsche Bank,Microsoft,Futures,24/07/2018 20:57:15,55.84
+Bank of America,Microsoft,Futures,06/04/2018 06:45:55,437.96
+Bank of America,Toyota,CDS,04/08/2018 05:42:24,202.97
+Barclays,Apple,Equity,22/10/2018 07:20:24,31.54
+Fannie Mae,Apple,Loan,12/05/2018 22:03:09,553.42
+Barclays,Microsoft,Options,25/12/2018 02:34:45,678.07
+Fannie Mae,Walmart,Equity,26/07/2018 10:11:35,303.54
+State Bank of India,Amazon,Bond,28/04/2018 12:23:16,455.11
+Fannie Mae,Walmart,CDS,02/01/2018 06:33:10,57.67
+Deutsche Bank,Walmart,Swap,13/03/2018 14:50:48,722.42
+Deutsche Bank,SimCorp,CDS,03/10/2018 03:13:16,487.59
+Deutsche Bank,Microsoft,Options,16/03/2018 14:51:07,411.06
+UOB,Apple,Options,07/10/2018 08:22:49,322.24
+Deutsche Bank,Walmart,Deposit,13/03/2018 16:54:56,382.81
+BNP Paribas,Microsoft,Equity,02/08/2018 10:02:45,939.91
+Deutsche Bank,Toyota,Loan,04/10/2018 17:51:53,581.66
+Deutsche Bank,Amazon,Futures,20/07/2018 03:32:20,422.43
+Deutsche Bank,Ford,Equity,19/06/2018 14:48:02,688.95
+Finanz Informatik,Walmart,Equity,19/12/2018 22:14:57,591.66
+UOB,Apple,Futures,07/03/2018 15:52:38,76.67
+UOB,Toyota,Swap,06/10/2018 20:35:51,885.68
+State Bank of India,Samsung,Equity,13/09/2018 03:15:26,100.09
+UOB,Walmart,Equity,03/01/2018 16:30:54,695.84
+Deutsche Bank,Google,Bond,28/09/2018 15:39:22,28.49
+Finanz Informatik,Amazon,Deposit,23/07/2018 23:49:41,673.30
+Barclays,Amazon,CDS,04/03/2018 07:27:56,174.00
+Finanz Informatik,Toyota,Options,25/02/2018 17:42:28,402.08
+Barclays,Samsung,CDS,11/02/2018 12:47:41,621.87
+UOB,Samsung,Bond,18/02/2018 06:28:56,38.39
+Fannie Mae,Toyota,CDS,14/04/2018 16:47:38,439.19
+Finanz Informatik,Amazon,Swap,20/12/2018 12:48:37,119.07
+Bank of America,Toyota,CDS,20/08/2018 12:33:27,524.99
+Finanz Informatik,Toyota,Deposit,19/01/2018 18:14:22,355.67
+Deutsche Bank,Google,Swap,23/02/2018 11:52:09,428.25
+Barclays,Samsung,Equity,05/01/2018 10:57:03,89.41
+Fannie Mae,Microsoft,Bond,23/01/2018 13:31:52,564.98
+Finanz Informatik,SimCorp,Bond,26/02/2018 08:47:36,306.73
+Deutsche Bank,Amazon,Bond,05/06/2018 10:37:50,250.43
+UOB,Google,Deposit,16/08/2018 09:05:55,289.34
+State Bank of India,Ford,Deposit,24/07/2018 23:49:01,109.89
+Bank of America,Amazon,Equity,09/05/2018 17:20:39,85.04
+State Bank of India,Toyota,Swap,04/01/2018 03:40:23,404.00
+Finanz Informatik,Samsung,Loan,09/07/2018 16:35:29,336.93
+Bank of America,Walmart,CDS,18/01/2018 10:57:26,164.04
+BNP Paribas,Amazon,Bond,11/12/2018 07:01:44,261.62
+Finanz Informatik,SimCorp,Futures,16/07/2018 18:05:42,294.14
+Fannie Mae,Samsung,Bond,23/09/2018 08:56:55,43.74
+Fannie Mae,Microsoft,Bond,14/10/2018 20:50:22,326.74
+Deutsche Bank,Samsung,Bond,25/11/2018 04:11:10,20.27
+Finanz Informatik,Microsoft,Loan,19/08/2018 05:22:20,452.92
+Finanz Informatik,Apple,Loan,17/09/2018 02:23:38,18.81
+State Bank of India,Toyota,Options,01/01/2018 08:44:12,73.16
+Fannie Mae,Toyota,Futures,11/07/2018 21:53:25,557.97
+Barclays,SimCorp,Equity,20/02/2018 13:32:26,44.76
+UOB,SimCorp,Bond,27/10/2018 15:44:19,217.45
+Barclays,Google,Options,26/06/2018 13:41:44,252.11
+Fannie Mae,Ford,Options,07/11/2018 10:29:24,237.59
+UOB,Microsoft,Swap,25/12/2018 14:42:36,191.60
+Fannie Mae,Walmart,Deposit,23/10/2018 07:59:45,449.76
+UOB,Samsung,Bond,19/07/2018 19:02:14,43.57
+Fannie Mae,Amazon,Swap,16/02/2018 04:15:31,342.73
+UOB,Apple,Equity,17/08/2018 14:12:42,233.94
+Barclays,Toyota,Equity,18/03/2018 23:13:24,41.86
+Bank of America,SimCorp,Bond,17/01/2018 19:37:38,55.31
+BNP Paribas,SimCorp,Equity,08/11/2018 18:39:31,166.21
+Bank of America,Microsoft,Equity,04/08/2018 10:09:43,155.07
+State Bank of India,Samsung,Equity,21/07/2018 09:04:06,318.39
+State Bank of India,Walmart,Futures,25/05/2018 22:35:19,14.33
+Finanz Informatik,Toyota,Futures,14/04/2018 07:18:22,839.25
+Deutsche Bank,Samsung,Bond,20/09/2018 05:17:37,231.92
+Deutsche Bank,Walmart,Futures,03/03/2018 02:51:46,124.82
+UOB,Samsung,Deposit,08/08/2018 06:25:56,211.48
+BNP Paribas,Toyota,Equity,03/11/2018 03:27:47,30.42
+Deutsche Bank,Ford,Equity,05/01/2018 18:12:14,502.99
+Barclays,SimCorp,Options,10/09/2018 20:07:27,82.44
+UOB,Amazon,Options,23/08/2018 01:25:39,210.54
+Bank of America,Apple,Bond,15/02/2018 20:39:42,106.08
+BNP Paribas,Google,Deposit,02/08/2018 14:06:26,280.71
+State Bank of India,Ford,Loan,26/04/2018 08:25:31,162.84
+Finanz Informatik,Walmart,Equity,24/03/2018 09:27:29,53.16
+Fannie Mae,Amazon,Swap,12/12/2018 14:35:55,112.05
+State Bank of India,Ford,Equity,01/11/2018 14:41:48,180.42
+Barclays,Google,Futures,05/05/2018 12:04:35,65.55
+BNP Paribas,Walmart,Equity,02/12/2018 14:03:27,607.56
+Deutsche Bank,SimCorp,Swap,06/01/2018 09:25:17,322.40
+Deutsche Bank,Walmart,Loan,02/12/2018 02:58:33,49.35
+Bank of America,Apple,Bond,04/11/2018 08:45:10,693.13
+Bank of America,Microsoft,Swap,15/11/2018 23:12:25,394.91
+BNP Paribas,Samsung,Futures,02/08/2018 11:21:15,174.72
+Bank of America,SimCorp,CDS,22/12/2018 17:22:05,107.69
+Bank of America,Microsoft,Futures,19/09/2018 10:43:21,808.30
+UOB,Walmart,Loan,24/12/2018 18:36:31,92.94
+State Bank of India,SimCorp,Equity,24/10/2018 02:33:58,538.62
+Bank of America,Google,Futures,06/05/2018 19:18:41,118.21
+UOB,Apple,Deposit,05/10/2018 01:09:44,636.41
+BNP Paribas,Samsung,Loan,26/04/2018 03:02:43,16.32
+UOB,Toyota,Equity,15/08/2018 17:04:59,536.56
+Barclays,Ford,Options,25/02/2018 23:43:26,77.89
+State Bank of India,Samsung,Deposit,20/02/2018 18:52:13,496.17
+UOB,Walmart,Deposit,22/05/2018 23:48:08,85.40
+State Bank of India,Google,Swap,17/02/2018 05:16:07,148.60
+Barclays,Walmart,Bond,18/01/2018 02:55:06,386.00
+UOB,Samsung,Options,06/08/2018 20:05:13,767.21
+Fannie Mae,Walmart,Equity,24/02/2018 19:48:42,353.71
+Barclays,Toyota,Deposit,21/06/2018 05:28:46,276.81
+BNP Paribas,Toyota,Equity,18/07/2018 03:36:21,524.83
+Fannie Mae,Apple,CDS,23/07/2018 19:27:59,707.78
+Finanz Informatik,Google,Options,08/07/2018 03:04:04,179.06
+Barclays,Microsoft,Futures,23/09/2018 11:26:37,917.73
+Fannie Mae,SimCorp,Deposit,10/10/2018 11:04:17,400.37
+UOB,SimCorp,Options,13/11/2018 21:09:39,655.06
+BNP Paribas,SimCorp,Futures,10/12/2018 20:33:01,140.18
+Barclays,Samsung,Futures,19/06/2018 19:26:46,293.13
+BNP Paribas,Samsung,Loan,07/01/2018 21:43:37,146.42
+Finanz Informatik,Toyota,Loan,19/01/2018 15:03:50,246.29
+State Bank of India,Apple,Options,15/05/2018 22:02:06,233.71
+Barclays,Amazon,Futures,14/05/2018 07:12:24,137.07
+BNP Paribas,Ford,CDS,02/10/2018 15:29:27,357.14
+UOB,Walmart,Loan,27/09/2018 23:14:58,87.52
+State Bank of India,Walmart,Futures,14/08/2018 22:17:57,183.59
+Barclays,Walmart,Equity,10/12/2018 22:18:45,242.17
+Barclays,Walmart,Loan,25/03/2018 20:03:47,310.33
+BNP Paribas,Microsoft,Swap,16/05/2018 12:31:07,250.38
+Finanz Informatik,SimCorp,Swap,16/05/2018 03:28:20,67.66
+Deutsche Bank,SimCorp,CDS,25/07/2018 07:20:14,332.35
+State Bank of India,SimCorp,Futures,10/01/2018 06:43:43,489.39
+Barclays,Google,Futures,17/03/2018 22:40:53,378.66
+Barclays,Toyota,Futures,23/06/2018 13:36:21,490.40
+Fannie Mae,Microsoft,Loan,07/09/2018 20:02:52,177.57
+Barclays,Toyota,Swap,16/06/2018 12:05:25,20.93
+Deutsche Bank,SimCorp,Options,06/01/2018 04:02:02,931.75
+Bank of America,Amazon,Equity,20/03/2018 04:51:41,187.49
+State Bank of India,Samsung,Deposit,10/04/2018 16:48:59,755.87
+Barclays,Google,Futures,18/07/2018 17:41:20,349.43
+UOB,Apple,CDS,21/04/2018 01:33:44,90.16
+Deutsche Bank,Amazon,Futures,02/03/2018 20:37:18,338.47
+Finanz Informatik,Apple,Bond,09/12/2018 11:59:36,374.88
+Barclays,SimCorp,Equity,27/11/2018 21:09:35,55.75
+Fannie Mae,Apple,Equity,19/07/2018 03:44:10,223.37
+BNP Paribas,Amazon,CDS,21/01/2018 18:54:44,403.53
+BNP Paribas,Ford,Equity,26/10/2018 03:15:32,335.08
+Deutsche Bank,Apple,CDS,11/05/2018 07:48:34,78.94
+Deutsche Bank,Samsung,Bond,26/10/2018 02:51:08,70.24
+State Bank of India,Amazon,Options,08/04/2018 05:53:28,44.82
+UOB,Google,Deposit,02/04/2018 02:40:20,366.39
+State Bank of India,Microsoft,Futures,17/10/2018 05:50:24,310.26
+Finanz Informatik,Google,Loan,06/02/2018 08:25:26,716.89
+Barclays,Amazon,Swap,10/09/2018 12:58:46,16.33
+Barclays,SimCorp,Futures,06/10/2018 15:55:51,643.57
+Finanz Informatik,SimCorp,Options,08/10/2018 17:52:43,120.45
+Deutsche Bank,Microsoft,Loan,02/06/2018 15:24:45,87.85
+Fannie Mae,Apple,CDS,12/12/2018 18:38:35,80.08
+Barclays,Walmart,CDS,24/12/2018 21:44:08,574.08
+Bank of America,Microsoft,CDS,07/12/2018 05:16:03,297.35
+Finanz Informatik,Google,Futures,24/08/2018 07:50:37,436.89
+BNP Paribas,Microsoft,Deposit,10/07/2018 02:31:17,216.81
+State Bank of India,Microsoft,Loan,14/10/2018 23:24:40,144.68
+Barclays,Walmart,Deposit,09/05/2018 05:08:07,236.63
+BNP Paribas,Google,CDS,15/12/2018 08:29:07,82.08
+Deutsche Bank,Ford,Futures,20/07/2018 01:52:37,158.42
+State Bank of India,Google,Deposit,01/02/2018 12:25:23,108.75
+State Bank of India,Amazon,Equity,03/01/2018 18:31:20,60.08
+Bank of America,Microsoft,Bond,17/08/2018 12:11:19,73.77
+Finanz Informatik,SimCorp,Swap,18/04/2018 20:15:35,256.18
+State Bank of India,Apple,Deposit,07/06/2018 06:50:22,119.92
+Barclays,SimCorp,Loan,10/12/2018 14:10:17,421.26
+Finanz Informatik,Apple,CDS,23/12/2018 11:27:51,315.98
+Bank of America,Ford,Futures,08/04/2018 10:27:31,135.45
+Deutsche Bank,Samsung,Deposit,23/10/2018 19:11:01,155.85
+Deutsche Bank,Ford,Bond,21/06/2018 19:26:52,122.55
+UOB,Ford,Swap,11/03/2018 14:09:03,547.27
+Fannie Mae,Walmart,Swap,24/03/2018 12:16:53,686.38
+Finanz Informatik,Amazon,Swap,15/05/2018 13:54:57,18.00
+State Bank of India,Walmart,Deposit,16/08/2018 16:53:38,277.00
+Deutsche Bank,Google,Loan,25/12/2018 02:04:48,123.31
+Bank of America,SimCorp,CDS,15/09/2018 09:04:32,183.65
+Deutsche Bank,Google,Futures,28/04/2018 14:47:19,578.28
+Bank of America,Walmart,Futures,10/12/2018 03:08:57,156.37
+Barclays,Apple,Loan,26/04/2018 10:51:10,264.39
+Deutsche Bank,Amazon,Swap,17/07/2018 11:38:03,20.41
+Finanz Informatik,Toyota,Equity,18/06/2018 21:03:47,364.24
+Fannie Mae,Apple,Bond,10/03/2018 13:49:11,145.81
+Deutsche Bank,Walmart,Equity,15/06/2018 07:40:56,209.31
+Barclays,Apple,Swap,06/03/2018 18:56:55,314.53
+Barclays,Apple,Deposit,28/09/2018 13:19:44,70.44
+Deutsche Bank,SimCorp,CDS,17/06/2018 15:31:42,25.25
+Fannie Mae,Apple,Futures,26/06/2018 04:08:49,381.36
+Bank of America,Ford,Futures,05/05/2018 16:46:34,18.77
+State Bank of India,Ford,CDS,07/05/2018 01:24:32,472.80
+Fannie Mae,Microsoft,Bond,22/05/2018 07:37:25,370.74
+Barclays,SimCorp,CDS,12/08/2018 17:58:20,630.88
+State Bank of India,Ford,Equity,12/11/2018 07:24:07,250.42
+Deutsche Bank,Walmart,Equity,11/06/2018 09:54:09,170.32
+BNP Paribas,Amazon,Deposit,17/08/2018 11:14:05,519.59
+BNP Paribas,Apple,Loan,19/09/2018 07:59:06,525.79
+State Bank of India,SimCorp,Equity,03/11/2018 20:19:13,485.16
+UOB,Samsung,Deposit,25/05/2018 13:08:35,30.20
+BNP Paribas,Microsoft,Equity,25/09/2018 16:19:28,310.13
+Barclays,Samsung,Equity,28/02/2018 12:07:58,144.07
+Fannie Mae,Apple,Deposit,20/12/2018 05:19:52,436.63
+Fannie Mae,Amazon,Deposit,12/12/2018 13:22:34,180.48
+Bank of America,Samsung,Futures,18/03/2018 01:38:38,472.57
+Barclays,Google,Bond,23/07/2018 02:31:15,178.08
+Finanz Informatik,Amazon,CDS,26/09/2018 23:04:13,678.50
+Fannie Mae,SimCorp,Swap,07/02/2018 07:38:38,352.03
+Bank of America,Toyota,Futures,20/06/2018 01:22:13,206.73
+BNP Paribas,Google,Options,03/04/2018 02:14:41,70.72
+State Bank of India,Amazon,Swap,07/12/2018 20:09:54,182.41
+Barclays,Samsung,Swap,03/04/2018 16:58:10,182.29
+Bank of America,Samsung,Bond,11/05/2018 01:58:40,901.46
+BNP Paribas,Ford,Loan,21/08/2018 04:47:29,14.66
+UOB,SimCorp,Swap,26/08/2018 04:10:16,202.75
+BNP Paribas,Apple,CDS,02/05/2018 03:24:31,116.90
+State Bank of India,SimCorp,Deposit,14/02/2018 11:31:19,165.89
+UOB,SimCorp,Swap,01/02/2018 04:57:24,554.28
+UOB,Toyota,Futures,02/08/2018 23:16:59,130.88
+Deutsche Bank,Microsoft,Swap,27/01/2018 09:37:45,383.63
+Deutsche Bank,Samsung,CDS,16/04/2018 15:09:32,75.95
+Fannie Mae,Ford,Bond,10/05/2018 05:05:12,307.45
+Fannie Mae,SimCorp,CDS,06/12/2018 14:36:53,48.63
+Bank of America,Google,Loan,16/12/2018 01:02:07,134.99
+UOB,Toyota,CDS,13/09/2018 18:14:28,49.59
+Finanz Informatik,Amazon,CDS,08/08/2018 04:08:43,565.84
+BNP Paribas,Microsoft,Loan,11/09/2018 22:44:04,105.91
+Fannie Mae,Ford,Bond,19/08/2018 11:51:03,326.37
+Finanz Informatik,Google,Equity,10/06/2018 03:33:37,249.95
+State Bank of India,Microsoft,Swap,12/02/2018 14:24:58,344.07
+BNP Paribas,Google,Options,18/05/2018 08:20:01,163.14
+Finanz Informatik,Apple,Equity,17/09/2018 21:05:54,817.69
+Barclays,Google,Loan,13/06/2018 20:57:56,127.35
+BNP Paribas,Samsung,Deposit,12/12/2018 05:31:46,41.14
+UOB,SimCorp,CDS,04/11/2018 19:07:20,812.18
+Bank of America,SimCorp,CDS,04/12/2018 21:50:12,314.02
+Barclays,Amazon,CDS,22/11/2018 10:19:14,771.47
+Barclays,Microsoft,Bond,15/05/2018 20:29:26,115.65
+UOB,SimCorp,Bond,16/07/2018 03:17:39,571.73
+Bank of America,Ford,Bond,19/11/2018 01:50:17,223.01
+State Bank of India,Apple,Bond,10/07/2018 13:38:54,334.89
+Deutsche Bank,Microsoft,Options,17/09/2018 06:20:35,89.28
+Deutsche Bank,Walmart,Futures,07/10/2018 02:02:52,183.51
+Deutsche Bank,SimCorp,Swap,27/10/2018 17:25:31,254.43
+Barclays,Amazon,Deposit,22/06/2018 08:24:20,177.55
+Deutsche Bank,Microsoft,Deposit,05/01/2018 09:39:15,123.41
+Bank of America,Toyota,Futures,10/05/2018 06:19:42,126.43
+UOB,Samsung,Futures,25/06/2018 07:44:02,711.34
+Deutsche Bank,Toyota,Options,22/02/2018 10:38:53,66.95
+BNP Paribas,Google,Equity,13/11/2018 16:58:26,402.51
+State Bank of India,Toyota,Options,17/05/2018 20:51:22,41.64
+Deutsche Bank,Walmart,Equity,18/06/2018 20:09:19,156.63
+Bank of America,Google,Bond,20/09/2018 23:15:34,163.10
+Fannie Mae,Amazon,Loan,23/08/2018 19:36:54,64.83
+Fannie Mae,Google,Futures,16/06/2018 19:20:49,124.82
+Barclays,Samsung,Equity,23/08/2018 17:35:26,752.34
+Finanz Informatik,Ford,Equity,10/02/2018 19:39:46,728.84
+Finanz Informatik,SimCorp,Deposit,26/06/2018 10:40:32,270.14
+Bank of America,Amazon,Options,25/05/2018 08:13:38,145.98
+Fannie Mae,Google,Equity,02/04/2018 05:02:20,160.86
+Fannie Mae,Walmart,Loan,14/06/2018 22:02:40,105.10
+BNP Paribas,Apple,Loan,10/11/2018 22:21:45,329.83
+Bank of America,Apple,Swap,08/05/2018 03:23:31,288.42
+Barclays,Amazon,Futures,21/06/2018 02:05:12,322.63
+Finanz Informatik,SimCorp,Swap,03/05/2018 05:53:17,831.93
+UOB,Microsoft,Bond,04/02/2018 03:37:58,208.07
+Bank of America,SimCorp,Equity,01/01/2018 16:40:50,65.97
+UOB,Google,Deposit,19/05/2018 02:07:32,47.23
+Fannie Mae,Apple,Options,24/04/2018 03:18:15,56.85
+Barclays,Apple,Bond,11/07/2018 20:20:55,203.96
+Bank of America,Apple,Equity,08/09/2018 17:25:41,174.80
+BNP Paribas,Apple,CDS,05/01/2018 11:56:55,75.19
+Barclays,Amazon,Options,24/07/2018 18:07:22,146.78
+Deutsche Bank,Google,Equity,17/11/2018 04:56:53,849.54
+Deutsche Bank,Walmart,Deposit,17/04/2018 09:26:01,5.79
+State Bank of India,Amazon,Deposit,28/06/2018 03:32:38,297.86
+Bank of America,Apple,CDS,10/08/2018 20:56:46,481.64
+Bank of America,Apple,Swap,06/01/2018 18:39:17,50.77
+Finanz Informatik,Apple,Bond,27/02/2018 08:26:40,510.02
+Deutsche Bank,Microsoft,Bond,15/06/2018 16:56:08,501.51
+Barclays,Walmart,Options,11/04/2018 20:31:44,720.80
+Barclays,Microsoft,CDS,07/04/2018 12:01:35,75.90
+Barclays,Microsoft,Deposit,11/12/2018 06:59:24,77.75
+UOB,SimCorp,Loan,03/02/2018 16:33:43,306.35
+UOB,Toyota,Futures,02/09/2018 09:36:44,148.77
+Deutsche Bank,Amazon,Futures,11/11/2018 03:49:35,28.21
+UOB,Google,Equity,11/09/2018 21:53:32,212.65
+State Bank of India,Microsoft,Deposit,06/07/2018 16:53:08,143.27
+Bank of America,Microsoft,Equity,26/07/2018 12:06:27,94.19
+UOB,Ford,Deposit,08/07/2018 16:29:41,780.14
+Barclays,Apple,Futures,02/09/2018 09:28:52,79.96
+Fannie Mae,Toyota,CDS,15/12/2018 14:58:43,488.32
+UOB,Amazon,CDS,21/04/2018 23:30:18,686.39
+Fannie Mae,Google,Deposit,15/10/2018 13:46:27,166.48
+BNP Paribas,Microsoft,Deposit,21/02/2018 04:19:51,275.59
+Deutsche Bank,Toyota,Swap,10/06/2018 01:20:15,44.96
+UOB,Google,Options,13/03/2018 01:55:53,148.04
+UOB,SimCorp,Loan,23/03/2018 14:40:37,391.61
+Deutsche Bank,Walmart,Equity,23/08/2018 11:18:17,331.37
+Fannie Mae,SimCorp,Futures,20/05/2018 20:39:36,241.69
+Fannie Mae,Amazon,Futures,25/02/2018 05:30:41,488.29
+Finanz Informatik,Toyota,CDS,11/05/2018 05:57:58,509.06
+Deutsche Bank,Walmart,Futures,21/12/2018 07:03:52,39.02
+State Bank of India,Apple,Swap,12/10/2018 07:12:08,493.63
+State Bank of India,Walmart,Options,04/09/2018 12:47:09,477.60
+State Bank of India,Toyota,Equity,28/08/2018 13:58:32,5.49
+Fannie Mae,Walmart,Equity,22/09/2018 07:45:55,224.90
+BNP Paribas,Samsung,Loan,02/09/2018 03:04:43,196.25
+Bank of America,Ford,Deposit,02/01/2018 07:50:19,251.77
+Finanz Informatik,Walmart,Deposit,15/02/2018 08:27:53,723.43
+Deutsche Bank,Samsung,Equity,14/11/2018 03:24:31,786.48
+Barclays,Microsoft,CDS,03/02/2018 05:45:10,512.45
+Barclays,SimCorp,Bond,24/01/2018 09:03:09,365.75
+Deutsche Bank,Google,Deposit,14/12/2018 15:42:58,159.65
+UOB,Microsoft,CDS,11/12/2018 01:56:39,508.07
+Bank of America,Microsoft,Equity,10/06/2018 07:45:08,14.61
+BNP Paribas,Microsoft,Loan,05/11/2018 08:30:44,10.33
+Bank of America,Samsung,CDS,18/09/2018 04:45:07,315.96
+Barclays,Amazon,Bond,04/12/2018 10:56:20,593.43
+State Bank of India,Walmart,Swap,26/05/2018 15:01:49,181.45
+Bank of America,Google,Bond,22/08/2018 19:38:33,121.20
+Bank of America,Walmart,Futures,20/03/2018 15:10:23,221.34
+Barclays,Google,Bond,16/06/2018 22:51:14,587.26
+Fannie Mae,Ford,Loan,09/08/2018 06:23:30,93.02
+UOB,Amazon,Options,19/06/2018 06:11:41,53.92
+Barclays,Walmart,Bond,19/02/2018 09:07:35,254.81
+State Bank of India,Amazon,Deposit,02/10/2018 15:22:45,24.63
+Finanz Informatik,Walmart,Equity,28/06/2018 23:37:39,480.57
+Deutsche Bank,Google,Options,17/06/2018 12:52:11,306.64
+BNP Paribas,Samsung,Futures,11/04/2018 09:37:46,917.40
+UOB,Amazon,Deposit,01/04/2018 19:24:36,54.92
+UOB,SimCorp,Deposit,04/09/2018 19:53:18,86.37
+Deutsche Bank,Google,Deposit,10/01/2018 12:11:57,118.54
+Finanz Informatik,Samsung,Loan,14/09/2018 08:24:15,49.36
+BNP Paribas,Microsoft,Bond,05/04/2018 15:57:47,369.03
+Barclays,Microsoft,Options,09/10/2018 16:39:44,97.20
+Deutsche Bank,Amazon,Options,09/07/2018 22:13:07,533.54
+Barclays,Walmart,Deposit,13/06/2018 11:08:28,179.03
+Bank of America,Amazon,Deposit,04/06/2018 02:16:26,631.67
+Deutsche Bank,Toyota,Loan,05/12/2018 16:44:33,333.73
+Barclays,Samsung,Options,06/05/2018 19:29:09,312.70
+Bank of America,Google,Swap,01/03/2018 06:38:03,326.97
+Deutsche Bank,Samsung,CDS,04/06/2018 17:19:54,124.38
+Deutsche Bank,Walmart,Futures,08/08/2018 16:49:27,223.14
+Bank of America,Google,Bond,07/07/2018 12:47:08,114.95
+BNP Paribas,Toyota,Equity,17/09/2018 15:09:09,833.44
+Bank of America,Walmart,Deposit,03/08/2018 23:43:16,133.22
+Barclays,Google,CDS,20/01/2018 13:44:08,382.24
+State Bank of India,Google,Swap,21/05/2018 02:24:44,124.88
+Bank of America,Toyota,Equity,23/10/2018 01:16:26,18.10
+UOB,SimCorp,Equity,14/07/2018 20:57:07,161.94
+State Bank of India,Apple,Swap,16/08/2018 08:34:29,7.42
+Bank of America,Ford,Equity,24/04/2018 17:59:55,114.47
+Finanz Informatik,Microsoft,CDS,25/12/2018 10:59:26,175.28
