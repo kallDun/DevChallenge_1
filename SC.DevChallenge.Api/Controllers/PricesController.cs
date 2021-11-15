@@ -5,6 +5,7 @@ using SC.DevChallenge.Api.Models;
 using SC.DevChallenge.Api.Repository;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 
 namespace SC.DevChallenge.Api.Controllers
@@ -25,8 +26,8 @@ namespace SC.DevChallenge.Api.Controllers
         {
             try
             {
-                TimeSlot timeSlot = null;
-                if (DateTime.TryParse(date, out var date_)) timeSlot = new TimeSlot(date_);
+                var datetime = DateTime.Parse(date, CultureInfo.CreateSpecificCulture("fr-FR"));
+                TimeSlot timeSlot = new TimeSlot(datetime);
                 var dto = new AveragePricePortfolioDto { Name = portfolio, InstrumentOwner = owner, Instrument = instrument, Date = timeSlot };
                 
                 var selection = portfolioRepository.GetSelection(dto);

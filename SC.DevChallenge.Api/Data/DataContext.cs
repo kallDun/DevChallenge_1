@@ -1,6 +1,7 @@
 ﻿using SC.DevChallenge.Api.Models;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.IO;
 using System.Reflection;
 
@@ -13,6 +14,8 @@ namespace SC.DevChallenge.Api.Data
 
         public DataContext()
         {
+
+
             portfolios = new();
 
             var path = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"Input/data.csv");
@@ -20,14 +23,16 @@ namespace SC.DevChallenge.Api.Data
             for (int i = 1; i < file.Length; i++)
             {
                 var line = file[i].Split(',');
+                var datetime = DateTime.Parse(line[3], CultureInfo.CreateSpecificCulture("fr-FR"));
+
                 portfolios.Add(new()
                 {
                     Id = Guid.NewGuid(),
-                    Name = line[0].ToString(),
-                    InstrumentOwner = line[1].ToString(),
-                    Instrument = line[2].ToString(),
-                    Date = new TimeSlot(DateTime.Parse(line[3].ToString())),
-                    Price = double.Parse(line[4].ToString())
+                    Name = line[0],
+                    InstrumentOwner = line[1],
+                    Instrument = line[2],
+                    Date = new TimeSlot(datetime),
+                    Price = double.Parse(line[4])
                 });
             }
         }
