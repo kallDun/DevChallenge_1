@@ -36,7 +36,7 @@ namespace SC.DevChallenge.Api.Controllers
                     return new AveragePriceReturnDto
                     {
                         Price = string.Format("{0:0.00}", portfolioRepository.GetAverageBySelection(selection)),
-                        Date = timeSlot is null ? "null" : timeSlot.ToString()
+                        Date = timeSlot is null ? "null" : timeSlot.IntervalStart.ToString()
                     };
                 }
                 else return NotFound();
