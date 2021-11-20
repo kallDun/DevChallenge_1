@@ -2,15 +2,10 @@
 
 namespace SC.DevChallenge.Api.Dto
 {
-    public class AveragePricePortfolioDto
+    public class BenchmarkPortfolioDto
     {
         public string Name { get; set; }
 
-        public string InstrumentOwner { get; set; }
-
-        public string Instrument { get; set; }
-
         public TimeSlot Date { get; set; }
-
     }
 }

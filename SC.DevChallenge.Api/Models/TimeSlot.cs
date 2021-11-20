@@ -1,24 +1,23 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using SC.DevChallenge.Api.Service;
+using System;
 
 namespace SC.DevChallenge.Api.Models
 {
     public class TimeSlot : IComparable<TimeSlot>
     {
-        public const int TimeInterval = 10;
+        public int Count { get; set; }
 
         public DateTime IntervalStart { get; set; }
 
         public TimeSlot(DateTime date)
         {
-            IntervalStart = date.AddSeconds(-(date.Second % 10));
+            TimeSlotService service = new();
+            (Count, IntervalStart) = service.GetTimeSlotStartFromDate(date);
         }
 
         public int CompareTo(TimeSlot other)
         {
-            return IntervalStart.CompareTo(other);
+            return IntervalStart.CompareTo(other.IntervalStart);
         }
     }
 }

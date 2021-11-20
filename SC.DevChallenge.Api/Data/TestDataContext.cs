@@ -4,14 +4,12 @@ using System.Reflection;
 
 namespace SC.DevChallenge.Api.Data
 {
-    public class DataContext : AbstractDataContext
+    public class TestDataContext : AbstractDataContext
     {
-
-        public DataContext()
+        public TestDataContext()
         {
-            var path = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"Input/data.csv");
+            var path = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"Input/my_data_for_test.csv");
             portfolios = CSV_ToListService.GetPortfoliosFromFile(path);
         }
-
     }
 }

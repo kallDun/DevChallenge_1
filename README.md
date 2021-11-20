@@ -1,14 +1,15 @@
-# How to run dummy project template
+Service for calculating average cost of financial interactions.
+path -> 'api/prices/'
 
-1. Clone repository: \
-    `git clone https://github.com/SimCorp/DevChallenge`
-2. Go to directory *DevChallenge/SC.DevChallenge.Api*
-3. Publish release version of API: \
-    `dotnet publish -c Release`
-4. Build Docker image: \
-    `docker build -t sc-dev-challenge .`
-5. Run Docker image: \
-    `docker run -it --rm -p 5000:80 sc-dev-challenge`
-6. Check your API by calling GET method:
-    - Browser: <http://localhost:5000/api/prices/average>
-    - curl: `curl -X GET "http://localhost:5000/api/prices/average" -H  "accept: text/plain"`
+'path/average' takes arguments string:"portfolio", string:"owner", string:"instrument", DateTime:"date"
+request example: '/api/prices/average?portfolio={portfolio}&owner={owner}&instrument={instrument}&datetime={datetime}'
+request '/path/average' performs the task with or without one or more arguments
+
+'path/benchmark' takes arguments string:"portfolio", DateTime:"date" and finds benchmark in one time interval (10000s)
+request example: 'api/prices/benchmark?portfolio=Fannie Mae&date=15/03/2018 17:34:50'
+
+'path/aggregate' takes arguments string:"portfolio", DateTime:"startdate", DateTime:"enddate", int:"intervals" and divide timeline 
+between startdate and enddate into 'intervals' groupsand find average benchmark in every group
+request example: 'api/prices/aggregate?portfolio=Fannie Mae&startdate=06/10/2018 00:00:00&enddate=13/10/2018 00:00:00&intervals=7'
+
+service may return 'not found 404' if nothing find or 'bad request 400' if something gone wrong
